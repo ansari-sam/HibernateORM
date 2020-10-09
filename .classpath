@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/antlr-2.7.6rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/c3p0-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/classes111.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/jaas.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/jaxen-1.1-beta-7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/jboss-archive-browsing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/jboss-cache.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/jgroups-2.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/hibernate 3.2/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Payal/Desktop/Java All file/MySQL Jar/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
